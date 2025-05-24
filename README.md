@@ -1,2 +1,2 @@
-# TestRepo
-Testing Repository
+# Git-public-url
+Public URL
